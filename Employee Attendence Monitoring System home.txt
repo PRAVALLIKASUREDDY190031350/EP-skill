@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	 <title>EMPLOYEE ATTENDANCE MONITORING SYSTEM</title>
+	 <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+
+	<header>
+		<div class="main">
+			<div class="logo">
+				<img src="logo.png">
+			<ul>
+				<li class="active"><a href="#">Home</a></li>
+				<li><a href="file:///C:/Users/sureddypravallika/Downloads/Employee%20Attendence%20Monitoring%20System%20Login-23/Employee%20Attendence%20Monitoring%20System%20login.html">Login</a></li>
+				<li><a href="file:///C:/Users/sureddypravallika/Downloads/Employee%20Attendence%20Monitoring%20System%20Registration%20-%20Copy/Employee%20Attendence%20Monitoring%20System%20Registration.html">Register</a></li>
+				<li><a href="file:///C:/Users/sureddypravallika/Downloads/Employee%20Attendence%20Monitoring%20System%20Info/ab.html">About</a></li>
+				<li><a href="file:///C:/Users/sureddypravallika/Downloads/Employee%20Attendence%20Monitoring%20System%20Contact%20Us/cont.html">ContactUs</a></li>
+			</ul>
+		</div>
+		<div class="title">
+			<h1>EMPLOYEE MONITORING SYSTEM</h1>
+		</div>
+
+		<div class="button">
+			<a href="#" class="btn">Services</a>
+			<a href="#" class="btn">Learn More</a>
+	</header>
+</body>
+</html>
